@@ -14,5 +14,4 @@ fun kangaroo(x1: Int, v1: Int, x2: Int, v2: Int): String {
         }else  answer=  "NO"
     }
     return answer
-
 }

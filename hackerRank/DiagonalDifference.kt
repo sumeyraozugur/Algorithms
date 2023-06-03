@@ -13,7 +13,6 @@ fun main(){
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
 
     val arrSize = arr.size
-
     val diagonalOne =(0 until arrSize).sumOf{arr[it][it]}
     val diagonalTwo =(0 until arrSize).sumOf{arr[it][arrSize-it-1]}
 

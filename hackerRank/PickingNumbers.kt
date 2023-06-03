@@ -11,7 +11,6 @@ fun pickingNumbers(a: Array<Int>): Int {
     var maxLength = 0
     for (i in 1 until 100) {
         maxLength = max(maxLength, frequency[i] + frequency[i - 1])
-        println(maxLength)
     }
     return maxLength
 }

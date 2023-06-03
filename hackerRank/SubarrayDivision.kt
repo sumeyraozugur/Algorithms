@@ -7,7 +7,7 @@ fun birthday(s: Array<Int>, d: Int, m: Int): Int {
 
     var counter = 0
     for(start in 0..s.size-m){
-        if(s.copyOfRange(start, start+m).sum() ==d){
+        if(s.copyOfRange(start, start+m).sum() == d){
             counter +=1
         }
     }

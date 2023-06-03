@@ -8,6 +8,7 @@ fun migratoryBirds(arr: Array<Int>): Int {
     for (element in arr) {
         if (frequencyMap.containsKey(element)) {
             frequencyMap[element] = frequencyMap[element]!! + 1
+
         } else {
             frequencyMap[element] = 1
         }
