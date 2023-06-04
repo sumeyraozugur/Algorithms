@@ -1,4 +1,5 @@
 # Algorithms
+To access the questions, please click  [link](https://www.hackerrank.com/domains/algorithms) 
 ## What is an Algorithm?🌿
 ✨A step-by-step procedure or a set of rules designed to solve a specific problem. 
 
