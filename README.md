@@ -22,5 +22,5 @@ O(n³)  ➡ Cubic  </br>
 O(n!)  ➡ Factorial  </br>
 O(2^n) ➡ Exponential  </br>
 
-:sparkler: To better understand, you can examine this [link](https://www.youtube.com/watch?v=lwAvI3WDXBY&list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o&index=1) 
+:sparkler: To better understand, you can examine this [link](https://www.bigocheatsheet.com/) 
 
